@@ -6,7 +6,6 @@
     "id": "cordova-sqlite-storage",
     "platforms": [
       "android",
-      "browser",
       "ios",
       "osx",
       "windows"
